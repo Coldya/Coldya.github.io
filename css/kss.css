@@ -1,0 +1,74 @@
+
+body{background-image: url(https://videohive.img.customer.envatousercontent.com/files/4cc45810-7b67-4f07-bb54-a6d92fdc2d9e/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=ea67f83de7eaf3d4e81e33bf8ef00ee1);
+background-size: 100%;}
+.Head{border: 3px groove #2F4F4F;
+width:500px;
+margin: auto;
+text-align: center;
+font-size: 40px;
+font-family: fantasy;
+background-color: 	#FF8C00;
+
+}
+ .gif{border:2px black groove;
+ 	width: 500px;
+ height: 250px;
+background-image:url(https://media0.giphy.com/media/26xBx3O76axe3JBle/giphy.gif);
+background-size: 100%; }
+}
+.one ul {padding:15px;
+  background: #FF8C00;
+
+}
+.one a {
+  padding:15px ;
+  background: rgba(177, 152, 145, .3);
+  border-right: 1px solid #b19891;
+  color: #FF8C00;
+  text-decoration: none;
+}
+.one a:hover {background: #b19891;}
+.one li {font-size: 20px;
+  display: inline;
+}
+p{ text-indent:20px ;
+color: white}
+ul {
+list-style: none;
+margin: 0px;
+
+padding-left: 0;
+padding: 15px;
+text-align: center;
+
+}
+.second{text-align: center;
+	color: white;
+}	
+.guy{border:2px white groove;
+	width:415px;
+	height:500px;
+	margin: auto;
+background-image: url(https://media.gettyimages.com/photos/street-baller-and-ball-up-all-star-guy-dupuy-performs-at-bondi-beach-picture-id623073060?s=612x612);
+}
+.gg{color: white}
+.just{border:2px black;
+width: 200px;
+height:250px;
+background-image:url(http://www.halosdesigns.com/riverlighttalent.com/wp-content/uploads/2018/12/JustinDarlington-Pages2.jpg);
+background-size:100%}
+.ss{color: white}
+#as{color: white}
+.smoove{border:2px black;
+width:240px;
+height: 240px;
+background-image: url(https://www.ytcount.com/web/cache/images/UC6Fu7KoyB6_5uCZlM030Dfg-medium.jpg);}
+.ds{border:2px black;
+width: 200px;
+height: 200px;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgb7Gvzi1V51FNMgeMKe4obtKOcTmBBeR-NSseF6d2lRwZNeKF);}
+.staples{border:3px black;
+	width: 200px;
+	height: 150px;
+background-image: url(https://i.jauns.lv/t/2017/07/04/1176105/160x90.jpg?v=1499152486);
+background-size: 130%;}
